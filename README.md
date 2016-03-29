@@ -1,4 +1,4 @@
-# oxen
+# oxen.js
 
 ##Preface
 This is my first public javascript library EVAR. I know, I'm nervous too. Hold my hand and we'll get through it together.
