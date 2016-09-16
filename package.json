@@ -1,0 +1,23 @@
+{
+  "name": "oxfordize",
+  "version": "1.0.0",
+  "description": "A module to format a list of values into a concatenated string, with the last one separated by an ampersand. For document formatting, mostly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshallvaughn/oxfordize.git"
+  },
+  "keywords": [
+    "grammer",
+    "utility"
+  ],
+  "author": "Marshall Vaughn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marshallvaughn/oxfordize/issues"
+  },
+  "homepage": "https://github.com/marshallvaughn/oxfordize#readme"
+}

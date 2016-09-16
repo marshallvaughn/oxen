@@ -1,9 +1,6 @@
 # oxen.js
 
-##Preface
-This is my first public javascript library EVAR. I know, I'm nervous too. Hold my hand and we'll get through it together.
-
-##What's the point?
+##Pourquoi?
 A simple script to create a comma separated list, with the last item being separated by an ampersand (&). So it turns this:
 `["Red", "Green", "Blue"]`
 into this:
